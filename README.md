@@ -22,19 +22,16 @@ Also, I identified the customer name who paid the most difference in terms of pa
 
 ## Key questions and insights for presentation
 
-For the presentation, I only explore some of the points I discussed above with visualizations. Here are the questions and main takeaways.
+For the presentation, I only explore some of the points I discussed above with visualizations. Here are some of the questions and main takeaways.
 
-- What are the quartiles and count of movies of the different family-friendly film category within each corresponding rental duration category?
+#### What are the quartiles and count of movies of the different family-friendly film category within each corresponding rental duration category?
 The first quartile of Animation was the highest of all quartiles of all categories, with 22 films.  
 The second highest was the third quartile of the Family category with 20 films.
 
-- How do the two stores compare in their count of rental orders during every month for all the years we have data for?
+#### How do the two stores compare in their count of rental orders during every month for all the years we have data for?
 Both stores have a similar amount of rental orders throughout all the years we have data for.
 The highest amount of rentals is in July 2005 (Store1: 3342 ,
 
-- Who were the top 2 customers that reached the highest paid amount per film in 2007?
+#### Who were the top 2 customers that reached the highest paid amount per film in 2007?
 Eleanor Hunt and Rhonda Kennedy where the ones who reached the highest paid amount. It coincided to be in both cases in April 2007.  
 As an observation, in general, May 2007 seems to be the weakest month out out all the shown months in the graph.  
-
-- Can you compare the payment amounts of the top 10 paying customers in each successive month?
-The customer Eleanor Hunt paid the maximum difference of $64.87 during March 2007 from $22.95 in February of 2007.
