@@ -3,7 +3,7 @@
 
 ## Dataset
 
-In this project I use SQL to explore a database related to movie rentals. As part of the project, I run SQL queries and build visualizations to showcase the output of the queries.
+In this project I use SQL to explore a dataset related to movie rentals. As part of the project, I run SQL queries and build visualizations to showcase the output of the queries.
 
 I query the Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs. I will be querying the database to gain an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance. The schema for the DVD Rental database is provided here: http://www.postgresqltutorial.com/postgresql-sample-database/.
 
